@@ -30,8 +30,9 @@ This is a simple mortgage repayment calculator built using Streamlit. It allows 
     ```sh
     streamlit run mortgage_calculator.py
     ```
-2. Open your web browser and go to `http://localhost:8501` to access the application.
+2. Open your web browser and go to `http://localhost:8501` to access the application. or
 
+3. Open your web browser and go to https://devtkd-mortgage-calculator-mortgage-calculator-oryuiv.streamlit.app.
 ## Input Fields
 
 - **Home Value**: The total value of the home.
